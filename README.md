@@ -21,6 +21,7 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=bootstrap&logoColor=FFFFFF&style=for-the-badge"/>
 <img alt="material-ui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </p>
 
