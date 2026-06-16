@@ -2,7 +2,7 @@
   Amin Babaei
 </h1>
 
-<h4 align="center">This is Amin! A junior front end developer</h4>
+<h4 align="center">This is Amin! A senior front end developer</h4>
 
 ## My expertise
 
